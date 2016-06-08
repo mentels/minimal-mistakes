@@ -7,7 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ProjektKręgosłup.pl"
+# title                    : "ProjektKręgosłup.pl"
+title                    : "Projekt Kręgosłup"
 title_separator          : "-"
 name                     : "Alicja Mentel"
 description              : "Misją firmy ProejktKręgosłup.pl jest szerzenie świadomości jak dbać o własny kręgosłup, szczególnie dzisiaj, kiedy pracujemy głównie na siedząco"

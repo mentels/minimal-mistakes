@@ -1,0 +1,19 @@
+---
+layout: splash
+permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: splash.jpg
+  caption:
+excerpt: "</br>W Projekt Kręgosłup zajmujemy się higieną kręgosłupa. Naszą misją jest edukacja społeczeństa, żbye praca siedząca nie prowadziła do schorzeń kręgosłupa.</br>"
+---
+
+{% include base_path %}
+
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3> -->
+
+<!-- {% for post in paginator.posts %} -->
+<!--   {% include archive-single.html %} -->
+<!-- {% endfor %} -->
+
+<!-- {% include paginator.html %} -->
