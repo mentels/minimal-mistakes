@@ -8,3 +8,8 @@ serve:
 
 update:
 	bundle update
+
+npm:
+	npm install
+css: npm
+	npm run build:css
