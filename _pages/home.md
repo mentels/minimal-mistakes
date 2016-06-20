@@ -10,17 +10,17 @@ feature_row:
   - image_path: education.jpg
     alt: "edukacja"
     title: "Edukcja pracowników biurowych"
-    url: "http://www.freepik.com/free-vector/education-cartoon-with-teacher_762404.htm"
+    url: "/oferta#edukacja"
     excerpt: "Prowadzimy szkolenia w siedzibie klienta gdzie poszerzamy świadomość pracowników o higienie kręgosłupa."
   - image_path: exercises.jpg
     alt: "ćwiczenia"
     title: "Wspólne ćwiczenia"
-    url: "http://www.freepik.com/free-vector/fitness-poses-silhouettes_804344.htm"
+    url: "/oferta#cwiczenia"
     excerpt: "Prowadzimy ćwiczenia w siedzibie klienta, żeby nauczyć pracowników jak dbać o kręgosłup i jak stosować proste techniki w czaie pracy."
   - image_path: physiotherapy.jpg
     alt: "fizjoterapia"
     title: "Podstawowa fizjoterapia w siedziebie klienta"
-    url: "http://www.freepik.com/free-vector/physiotherapist-illustrations_842748.htm"
+    url: "/oferta#fizjoterapia"
     excerpt: "Prwoadzimy rehabilitację w siedzibie klienta"
 intro:
   - excerpt: "Kręgosłup masz jeden, na całe życie - niech Ci służy przez lata!"
