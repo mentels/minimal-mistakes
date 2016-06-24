@@ -68,20 +68,20 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "Fizjoterapeutra, Trener, Pedagog"
   location         : "Kraków, Polska"
-  email            :
+  email            : "pkpl@pl"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : http://localhost:4000/pkpl/omnie
   foursquare       :
   github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : http://localhost:4000/pkpl/omnie
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -91,7 +91,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : http://localhost:4000/pkpl/omnie
 
 
 # Reading Files
