@@ -33,6 +33,7 @@ Tel: {{ site.author.phone }}
       <li>
         <input class="ct-in-submit" type="submit" value="Send">
       </li>
+      <input type="hidden" name="_next" value="{{ site.url }}{{ site.baseurl }}/dziekujemy" />
     </ul>
   </form>
 </div>
