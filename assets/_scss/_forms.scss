@@ -358,15 +358,15 @@ select:focus {
     list-style: none;
     margin-left: 0;
     padding-left: 0;
+    max-width: 600px;
     li {
-      list-style-type: none;
+        list-style-type: none;
     }
   }
 }
 
 .ct-in {
-    margin-right: 10px;
-    margin-bottom: 20px;
+    margin: auto;
     padding: 8px 20px;
     display: inline-block;
     font-size: $type-size-6;
@@ -377,7 +377,7 @@ select:focus {
     border-color: lighten(#000,50);
     border-radius: $border-radius;
     /* width: 65%; */
-    max-width: 570px;
+    width: 80%;
 }
 
 .ct-in-text {
