@@ -31,9 +31,11 @@ Tel: {{ site.author.phone }}
         <textarea class="ct-in-text-msg" form="ct-form" nname="message" placeholder="Wiadomość"></textarea>
       </li>
       <li>
-        <input class="ct-in-submit" type="submit" value="Send">
+        <input class="ct-in-submit" type="submit" value="Wyślij">
       </li>
       <input type="hidden" name="_next" value="{{ site.url }}{{ site.baseurl }}/dziekujemy" />
+      <input type="text" name="_gotcha" style="display:none" />
+      <input type="hidden" name="_subject" value="Formularz kontaktowy" />
     </ul>
   </form>
 </div>
