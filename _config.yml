@@ -12,7 +12,7 @@ title                    : "Projekt Kręgosłup"
 title_separator          : "-"
 name                     : "Alicja Mentel"
 description              : "Misją firmy ProejktKręgosłup.pl jest szerzenie świadomości jak dbać o własny kręgosłup, szczególnie dzisiaj, kiedy pracujemy głównie na siedząco"
-url                      : http://mentels.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://mentels.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/pkpl" # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -68,20 +68,20 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "Fizjoterapeutra, Trener, Pedagog"
   location         : "Kraków, Polska"
-  email            : "pkpl@pl"
+  email            : "projektkregoslup@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : http://localhost:4000/pkpl/omnie
+  facebook         : "http://localhost:4000/pkpl/omnie"
   foursquare       :
   github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : http://localhost:4000/pkpl/omnie
+  linkedin         : "http://localhost:4000/pkpl/omnie"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -91,7 +91,8 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : http://localhost:4000/pkpl/omnie
+  youtube          : "http://localhost:4000/pkpl/omnie"
+  phone            : "+48 111 222 333"
 
 
 # Reading Files
@@ -207,3 +208,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Custom
+forms_provider          : "https://formspree.io/"

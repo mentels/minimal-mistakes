@@ -348,3 +348,47 @@ select:focus {
 #goog-wm-sb {
   @extend .btn;
 }
+
+/*
+   Contact Form
+   ========================================================================== */
+
+#contact {
+  ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    li {
+      list-style-type: none;
+    }
+  }
+}
+
+.ct-in {
+    margin-right: 10px;
+    margin-bottom: 20px;
+    padding: 8px 20px;
+    display: inline-block;
+    font-size: $type-size-6;
+    color: #000;
+    background-color: #fff;
+    border-width: 2px !important;
+    border-style: solid !important;
+    border-color: lighten(#000,50);
+    border-radius: $border-radius;
+    /* width: 65%; */
+    max-width: 570px;
+}
+
+.ct-in-text {
+    @extend .ct-in;
+}
+
+.ct-in-text-msg {
+    @extend .ct-in;
+    height: 150px;
+}
+
+.ct-in-submit {
+  @extend .btn;
+}
