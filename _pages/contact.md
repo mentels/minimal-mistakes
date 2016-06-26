@@ -28,7 +28,7 @@ Tel: {{ site.author.phone }}
         <input class="ct-in-text" type="text" name="topic" placeholder="Temat">
       </li>
       <li>
-        <textarea class="ct-in-text-msg" form="ct-form" nname="message" placeholder="Wiadomość"></textarea>
+        <textarea class="ct-in-text-msg" form="ct-form" name="message" placeholder="Wiadomość"></textarea>
       </li>
       <li>
         <input class="ct-in-submit" type="submit" value="Wyślij">
