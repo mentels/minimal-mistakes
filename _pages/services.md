@@ -24,3 +24,7 @@ Oferujemy również ćwiczenia w siedzibie klienta, dostosowane do warunków. Ma
 ## Fizjoterapia
 
 Dostarczamy też usługi wstępnej diagnostyki osób orazp podstawowej fizjoterapii w siedzibie klienta. Dysponujemy profesjonalnym sprzętem do przeprowadzania takich zabiegów. Czas wykonywania usług w tym zakresie dostosowujemy do trybu pracy danej firmy, żeby możliwie harmonijnie wpasowywał się on w kulturę danego miejsca.
+
+## U klienta
+
+Wszystkie usługi realizujemy również w siedzibie klienta.
