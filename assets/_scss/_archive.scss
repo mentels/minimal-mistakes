@@ -151,6 +151,20 @@ a:hover {
   border-bottom: 1px solid $border-color;
 }
 
+.feature__wrapper--v2 {
+    @include clearfix();
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    text-align: center;
+
+    &-colored {
+        @extend .feature__wrapper--v2;
+        background-color: $feature-row-color;
+    }
+}
+
 .feature__item {
   margin-bottom: 2em;
   font-size: 1.25rem;
