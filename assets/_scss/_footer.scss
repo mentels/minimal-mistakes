@@ -12,6 +12,11 @@
   background-color: $lighter-gray;
   border-top: 1px solid $light-gray;
 
+  &2 {
+      @extend .page__footer;
+      margin-top: 0em;
+  }
+
   footer {
     @include container;
     @include clearfix;
