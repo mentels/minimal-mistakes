@@ -11,25 +11,25 @@ intro:
   - excerpt: 'Zdrowy kręgosłup to fundament naszej sprawności, warto poświęcić mu czas.'
 
 feature_row1:
-  - image_path: education.jpg
+  - image_path: edu.png
     alt: 'Edukacja'
     title: 'Edukcja'
     url: "/oferta#edukacja"
     excerpt: 'Prowadzimy profesjonalne szkolenia i warsztaty dotyczące funkcjonowania, profilaktyki schorzeń i higieny kręgosłupa. Uczymy jak poprawnie i efektywnie ćwiczyć, również w warunkach biurowych.'
-  - image_path: exercises.jpg
+  - image_path: exerc.png
     alt: 'Ćwiczenia grupowe'
     title: 'Ćwiczenia grupowe'
     url: "/oferta#cwiczenia"
     excerpt: 'Prowadzimy ćwiczenia w oparciu o program “Zdrowy kręgosłup” oraz metodę Pilates. Proponowana forma zajęć gimnastycznych ma charakter zarówno profilaktyczny jak i terapeutyczny w zakresie higieny kręgosłupa.
 '
-  - image_path: physiotherapy.jpg
+  - image_path: physio.png
     alt: 'Kompleksowa fizjoterapia'
     title: 'Kompleksowa fizjoterapia'
     url: "/oferta#fizjoterapia"
     excerpt: 'Prowadzimy rehabilitację obejmującą indywidualną konsultację oraz fachową terapię dostosowaną do potrzeb pacjenta. W zakresie fizjoterapii zajmujemy się całym układem ruchu.'
 
 feature_row2:
-  - image_path: client_site.png
+  - image_path: client.png
     alt: 'U klienta'
     title: 'U klienta'
     url: "/oferta#uklienta"
