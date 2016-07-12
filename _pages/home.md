@@ -39,9 +39,9 @@ feature_row2:
 
 {% include base_path %}
 
-{% include feature_row id="intro" type="center" version="v2" %}
+{% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row1" version="v2" %}
+{% include feature_row id="feature_row1" %}
 
-{% include feature_row id="feature_row2" type="center" version="v2-colored" %}
+{% include feature_row id="feature_row2" type="center" background-color="true" %}
 

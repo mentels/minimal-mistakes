@@ -145,24 +145,29 @@ a:hover {
    Features
    ========================================================================== */
 
-.feature__wrapper {
-  @include clearfix();
-  margin-bottom: 2em;
-  border-bottom: 1px solid $border-color;
-}
+/* .feature__wrapper { */
+/*   @include clearfix(); */
+/*   margin-bottom: 2em; */
+/*   border-bottom: 1px solid $border-color; */
+/* } */
 
-.feature__wrapper--v2 {
+.feature__inner--wrapper {
+    @include container();
     @include clearfix();
     padding-left: 1em;
     padding-right: 1em;
     padding-bottom: 1em;
     padding-top: 1em;
     text-align: center;
+    margin: 0 auto;
 
-    &-colored {
-        @extend .feature__wrapper--v2;
-        background-color: $feature-row-color;
+    @include breakpoint($x-large) {
+        max-width: $x-large;
     }
+}
+
+.feature__wrapper--colored {
+    background-color: $feature-row-color;
 }
 
 .feature__item {
