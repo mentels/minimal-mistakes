@@ -32,6 +32,7 @@ feature_row2:
   - image_path: client.png
     alt: 'U klienta'
     url: "/oferta#uklienta"
+    btn_class: "btn-pkpl-2"
     excerpt: 'Wszystkie nasze usługi są zaprojektowane w taki sposób, aby mogły być realizowane w siedzibie klienta. Dysponujemy profesjonalnym mobilnym sprzętem do prowadzenia szkoleń, ćwiczeń i fizjoterapii.'
 
 ---
