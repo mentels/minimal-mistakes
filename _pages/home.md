@@ -31,7 +31,6 @@ feature_row1:
 feature_row2:
   - image_path: client.png
     alt: 'U klienta'
-    title: 'U klienta'
     url: "/oferta#uklienta"
     excerpt: 'Wszystkie nasze usługi są zaprojektowane w taki sposób, aby mogły być realizowane w siedzibie klienta. Dysponujemy profesjonalnym mobilnym sprzętem do prowadzenia szkoleń, ćwiczeń i fizjoterapii.'
 

@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 2em;
+    margin-bottom: 2em;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -154,10 +154,7 @@ a:hover {
 .feature__inner--wrapper {
     @include container();
     @include clearfix();
-    padding-left: 1em;
-    padding-right: 1em;
-    padding-bottom: 1em;
-    padding-top: 1em;
+    padding: 0 1em;
     text-align: center;
     margin: 0 auto;
 
@@ -233,7 +230,7 @@ a:hover {
     font-size: 1.25rem;
 
     .archive__item-teaser {
-      margin-bottom: 2em;
+        margin-bottom: 0;
     }
 
     @include breakpoint($small) {
@@ -241,12 +238,12 @@ a:hover {
 
       .archive__item-teaser {
         margin: 0 auto;
-        width: span(5 of 12);
+        width: span(3 of 12);
       }
 
       .archive__item-body {
         margin: 0 auto;
-        width: span(7 of 12);
+        width: span(11 of 12);
       }
     }
   }
