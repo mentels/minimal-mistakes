@@ -151,6 +151,11 @@ a:hover {
 /*   border-bottom: 1px solid $border-color; */
 /* } */
 
+#motto.feature__wrapper {
+    text-transform: uppercase;
+    font-style: italic;
+}
+
 .feature__inner--wrapper {
     @include container();
     @include clearfix();
