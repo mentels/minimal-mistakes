@@ -7,10 +7,10 @@ header:
 
 excerpt: 'Naszą misją jest troska o Twój kręgosłup. Zajmujemy się zmniejszaniem ryzyka dolegliwości bólowych kręgosłupa, poprawą komfortu pracy siedzącej, a przez to wpływamy na jakość Twojego życia.'
 
-intro:
+motto:
   - excerpt: 'Zdrowy kręgosłup to fundament naszej sprawności, warto poświęcić mu czas.'
 
-feature_row1:
+services:
   - image_path: edu.png
     alt: 'Edukacja'
     title: 'Edukcja'
@@ -28,7 +28,7 @@ feature_row1:
     url: "/oferta#fizjoterapia"
     excerpt: 'Prowadzimy rehabilitację obejmującą indywidualną konsultację oraz fachową terapię dostosowaną do potrzeb pacjenta. W zakresie fizjoterapii zajmujemy się całym układem ruchu.'
 
-feature_row2:
+services_colored:
   - image_path: client.png
     alt: 'U klienta'
     url: "/oferta#uklienta"
@@ -39,9 +39,9 @@ feature_row2:
 
 {% include base_path %}
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="motto" type="center" %}
 
-{% include feature_row id="feature_row1" %}
+{% include feature_row id="services" %}
 
-{% include feature_row id="feature_row2" type="center" background-color="true" %}
+{% include feature_row id="services_colored" type="center" background-color="true" %}
 

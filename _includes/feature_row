@@ -6,7 +6,8 @@
   {% assign feature_row = page.feature_row %}
 {% endif %}
 
-<div class="feature__wrapper{% if include.background-color %}--colored{% endif %}">
+<div class="feature__wrapper{% if include.background-color %}--colored{% endif %}"
+     {% if include.id %}id="{{ include.id }}" {% endif %}>
 
   <div class="feature__inner--wrapper">
     {% for f in feature_row %}
