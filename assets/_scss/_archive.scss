@@ -156,6 +156,10 @@ a:hover {
     font-style: italic;
 }
 
+#services .archive__item-title {
+    text-transform: uppercase;
+}
+
 .feature__inner--wrapper {
     @include container();
     @include clearfix();
