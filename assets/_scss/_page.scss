@@ -160,7 +160,8 @@
     }
 
     .page__lead {
-      max-width: $medium;
+        max-width: 400px;
+        color: $hero-color;
     }
 
     .page__title {
