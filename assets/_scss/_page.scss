@@ -162,10 +162,12 @@
     .page__lead {
         max-width: 400px;
         color: $hero-color;
+        font-size: $type-size-4;
     }
 
     .page__title {
       font-size: $type-size-2;
+      color: $hero-color;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
