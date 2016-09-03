@@ -13,7 +13,7 @@ motto:
 services:
   - image_path: edu.png
     alt: 'Edukacja'
-    title: 'Edukcja'
+    title: 'Edukacja'
     url: "/oferta#edukacja"
     excerpt: 'Prowadzimy profesjonalne szkolenia i warsztaty dotyczące funkcjonowania, profilaktyki schorzeń i higieny kręgosłupa. Uczymy jak poprawnie i efektywnie ćwiczyć, również w warunkach biurowych.'
   - image_path: exerc.png
