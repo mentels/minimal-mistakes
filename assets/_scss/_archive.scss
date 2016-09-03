@@ -157,10 +157,6 @@ a:hover {
     font-size: 1.3em;
 }
 
-#services .archive__item-title {
-    text-transform: uppercase;
-}
-
 .feature__inner--wrapper {
     @include container();
     @include clearfix();
