@@ -151,11 +151,10 @@ a:hover {
 /*   border-bottom: 1px solid $border-color; */
 /* } */
 
-#motto.feature__wrapper {
-    text-transform: uppercase;
+#motto p {
     font-style: italic;
-    font-weight: bold;
-    /* font-variant: small-caps; */
+    font-variant: small-caps;
+    font-size: 1.3em;
 }
 
 #services .archive__item-title {
