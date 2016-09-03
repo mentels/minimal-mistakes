@@ -9,8 +9,5 @@ main:
   - title: "Kontakt"
     url: /kontakt
 
-  - title: "Blog"
-    url: /blog
-
-  # - title: "Sample Collections"
-  #   url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
+  # - title: "Blog"
+    # url: /blog
