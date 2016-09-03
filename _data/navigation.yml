@@ -11,3 +11,15 @@ main:
 
   # - title: "Blog"
     # url: /blog
+
+offer:
+   - title: "Oferta"
+     children:
+       - title: "Edukacja"
+         url:   "/oferta#edukacja"
+       - title: 'Ćwiczenia grupowe'
+         url: "/oferta#cwiczenia"
+       - title: 'Kompleksowa fizjoterapia'
+         url: "/oferta#fizjoterapia"
+       - title: 'U klienta'
+         url: "/oferta#uklienta"
