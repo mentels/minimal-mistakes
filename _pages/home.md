@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: splash.jpg
 
-excerpt: 'Naszą misją jest troska o Twój kręgosłup. Zajmujemy się zmniejszaniem ryzyka dolegliwości bólowych kręgosłupa, poprawą komfortu pracy siedzącej, <nobr>a przez to</nobr> wpływamy na jakość Twojego życia.'
+excerpt: 'Naszą misją jest troska o Twój kręgosłup. Zajmujemy się zmniejszaniem ryzyka dolegliwości bólowych kręgosłupa, poprawą komfortu pracy siedzącej, <nobr>a przez to</nobr> wpływamy na jakość <nobr>Twojego życia.</nobr>'
 
 motto:
   - excerpt: 'Zdrowy kręgosłup to fundament naszej sprawności, warto poświęcić mu czas.'
