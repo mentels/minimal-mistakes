@@ -7,10 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Mam na imię AW. Skończyłam Fizjoterapię na UJ (lic.) oraz Fizjoterapię (mgr) na AWF. Pracowałam w różnych gabientach rehabilitacyjnych, z prywatynmi pacjentami zajmując się różnego rodzaju schorzeniami.
+Nazywam się Alicja Mentel. Moja przygoda z fizjoterapią rozpoczęła się na studiach (Uniwersytet Jagieloński, AWF w Krakowie), a prawdziwego rozpędu nabrała poprzez indywidualną pracę z pacjentami. To właśnie ta praca i realny wpływ na jakość życia innych ludzi jest dla mnie źródłem ogromnej satysfakcji.
 
-Wielu moich pacjentów doświadcza problemów z kręgosłupem, które często są powiązana ze stylem życia, w tym z długotrwałą pracą siedzącą. Jednak w większości przypadków problem mógłby w ogóle nie wystąpić przy zachowniu odpowiedniej profilaktyki higieny kręgosłupa.
+Moje doświadczenie w pracy z pacjentami pokazuje, że bóle kręgosłupa stanowią powszechny problem, co więcej, przestały one być jedynie symbolem nadchodzącej starości. Skarżą się na nie coraz młodsi ludzie, a są to głównie osoby wykonujące pracę w pozycji siedzącej. Stąd zrodził się pomysł na Projekt Kręgosłup, a zwalczanie dolegliwości bólowych kręgosłupa stało się moją misją. 
 
-Stąd zrodził się pomysł na PKPL. Moją misją jest szerzenie wiedzy o tym, jak zadbać o ten filar naszego ciała, który jednak wymaga pewnej uwagi. Postawiony sam sobie i narażony na dzisiejsze choroby cywiliacyjne degraduje się. Zaczyna dysfunkcjonować co obniża nasz komfort życia, a nie raz wprowadza wręcz bariery.
-
-Jeśli chcą Państwo doświadczyć pozytywnej zmiany w życiu przez lepsze zrozumienie i zadbananie o swoje ciała - zapraszam!
+Żeby jak najlepiej realizować to powołanie, swoje umiejętności poszerzam na specjalistycznych kursach (PNF, terapia manualna). Dodatkowo, w myśl zasady, że lepiej zapobiegać niż leczyć, duże znaczenie przypisuję profilaktyce i wdrażaniu właściwej higieny kręgosłupa. Dlatego istotnym elementem mojej działalności są szkolenia.
