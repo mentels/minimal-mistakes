@@ -12,8 +12,8 @@ title                    : "Projekt Kręgosłup"
 title_separator          : "-"
 name                     : "Alicja Mentel"
 description              : "Misją firmy ProejktKręgosłup.pl jest szerzenie świadomości jak dbać o własny kręgosłup, szczególnie dzisiaj, kiedy pracujemy głównie na siedząco"
-url                      : "http://mentels.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/pkpl" # the subpath of your site, e.g. "/blog"
+url                      : "http://projektkregoslup.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
