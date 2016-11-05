@@ -3,3 +3,5 @@ _assets/js/plugins/* linguist-vendored
 _assets/js/vendor/* linguist-vendored
 assets/fonts/* linguist-vendored
 assets/js/vendor/* linguist-vendored
+CNAME merge=ours
+_config.yml merge=ours
