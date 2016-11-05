@@ -17,9 +17,14 @@ Współpraca z nami dostarczy korzyści zarówno poszczególnym pracownikom, jak
 
 <a name="edukacja"></a>
 
+<!-- ![wyklad]({{ site.url }}/images/wyklad.JPG) -->
+<!-- {: .full} -->
+
 ## Edukacja
 
 W ramach edukacji prowadzimy prelekcje i warsztaty, których celem jest przede wszystkim minimalizowanie dolegliwości bólowych kręgosłupa u pracowników. 
+![wyklad]({{ site.url }}/{{ site.baseurl }}/images/wyklad1200vig.jpg)
+{: .full}
 
 Podczas szkolenia uczestnicy zdobędą wiedzę na temat:
 
@@ -29,6 +34,7 @@ Podczas szkolenia uczestnicy zdobędą wiedzę na temat:
 * zagrożeń związanych z pracą siedzącą,
 * najczęściej popełnianych błędów postawy,
 * właściwych zachowań chroniących kręgosłup.
+<!-- ![wyklad]({{ site.url }}/images/wyklad300x200.jpg){: .align-left} -->
 
 Nasze warsztaty pozwolą nabyć umiejętności z zakresu:
 
@@ -38,7 +44,8 @@ Nasze warsztaty pozwolą nabyć umiejętności z zakresu:
 * wykonywania ćwiczeń profilaktycznych kręgosłupa, również w warunkach biurowych,
 * treningu kręgosłupa podczas przerw w pracy.
 
-Poprzez nasze szkolenia zamierzamy także przełamać barierę psychologiczną i zachęcić do systematycznego wykonywania w przestrzeni biurowej prostych ćwiczeń będących również elementem integrującym zespół. 
+Poprzez nasze szkolenia zamierzamy także przełamać barierę psychologiczną i zachęcić do systematycznego wykonywania w przestrzeni biurowej prostych ćwiczeń będących również elementem integrującym zespół.
+
 
 W programie szkolenia uwzględnione są również elementy dotyczące organizacji pracy i technik zarządzania czasem. Mają one na celu pokazanie, jak wdrożyć system przerw, które w połączeniu z efektywnymi ćwiczeniami mogą przyczynić się do poprawy higieny kręgosłupa.
 
