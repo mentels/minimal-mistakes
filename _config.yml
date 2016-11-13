@@ -211,3 +211,11 @@ compress_html:
 
 # Custom
 forms_provider          : "https://formspree.io/"
+
+defaults:
+ - scope:
+     path: ""
+     type: posts
+   values:
+     layout: single
+     author_profile: true
