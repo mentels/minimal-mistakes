@@ -13,10 +13,20 @@ Moje doświadczenie w pracy z pacjentami pokazuje, że bóle kręgosłupa stanow
 
 Żeby jak najlepiej realizować to powołanie, swoje umiejętności poszerzam na specjalistycznych kursach (PNF, terapia manualna). Dodatkowo, w myśl zasady, że lepiej zapobiegać niż leczyć, duże znaczenie przypisuję profilaktyce i wdrażaniu właściwej higieny kręgosłupa. Dlatego istotnym elementem mojej działalności są szkolenia. 
 
-W wolnym czasie lubię góry. Tu zdjęcia z przejścia archipelagu Lofotów:
-
-![trekking]({{ site.url }}/{{ site.baseurl }}/images/trekking_1024x768.jpg){: .full}
-
-Odbyłam też kilka podróży rowerowych, na poniższym zdjęciu Sycylia:
+Moja praca jest dla mnie swego rodzaju wyzwaniem i pasją jednocześnie. Ale jak
+wiemy, nie samą pracą człowiek żyje, więc staram się również rozwijać
+inne zainteresowania. Jakiś czas temu zakochałam się w podróżach rowerowych, dzięki którym zwiedziłam wiele zakątków Europy.
 
 ![biking]({{ site.url }}//{{ site.baseurl }}/images/biking_1024x768.jpg){: .full}
+
+*Wyprawa rowerowa wokół Sycylii*
+{: .text-center}
+
+Uwielbiam docierać też w miejsca, gdzie natura przejmuje panowanie nad cywilizacją. Dlatego chętnie zamieniam rower na górskie buty i podążam w górę, zatrzymując się przy widokach obok, których nie da się przejść obojętnie.
+
+![trekking]({{ site.url }}/{{ site.baseurl }}/images/trekking_1024x768.jpg){: .full} 
+
+*Trekking przez archipelag Lofotów w Norwegii*
+{: .text-center}
+
+
