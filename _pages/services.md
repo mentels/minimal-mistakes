@@ -8,9 +8,13 @@ sidebar:
 
 {% include base_path %}
 
-Nasza oferta obejmuje kompleksową obsługę firm w zakresie higieny kręgosłupa pracowników biurowych, a także klientów indywidualnych. Proponujemy szeroki wachlarz usług, począwszy od merytorycznych szkoleń w formie wykładów i warsztatów, poprzez konsultacje diagnostyczne poszczególnych pracowników, ćwiczenia grupowe dostosowane do warunków biurowych, aż po terapię indywidualną prowadzoną w siedzibie klienta.
+<a name="firmy"></a>
 
-Projekt Kręgosłup skierowany jest do osób, które w optymalny sposób chcą zadbać o swoje zdrowie i zmniejszyć ryzyko powstawania dyskomfortu kręgosłupa. Dlatego oferujemy pakiety usług, oparte na indywidualnym podejściu do klienta i rzeczywistych potrzebach firmy. Wszystkie usługi, przy pomocy mobilnego sprzętu, realizujemy w siedzibie klienta lub w miejscu zamieszkania w przypadku terapii indywidualnej. Pakiety usług przewidują również dłuższą współpracę poprzez prowadzenie profilaktycznych zajęć gimnastycznych, czy regularne konsultacje monitorujące efekty wdrażania zdrowych nawyków w biurze.
+## Firmy
+
+Nasza oferta obejmuje kompleksową obsługę firm w zakresie higieny kręgosłupa pracowników biurowych. Proponujemy szeroki wachlarz usług, począwszy od merytorycznych szkoleń w formie wykładów i warsztatów, poprzez konsultacje diagnostyczne poszczególnych pracowników, aż po ćwiczenia grupowe dostosowane do warunków biurowych.
+
+Projekt Kręgosłup skierowany jest do firm, które w optymalny sposób chcą zadbać o zdrowie swoich pracowników i zmniejszyć ryzyko powstawania u nich dyskomfortu kręgosłupa. Dlatego oferujemy pakiety usług, oparte na indywidualnym podejściu do klienta i rzeczywistych potrzebach firmy. Wszystkie usługi, przy pomocy mobilnego sprzętu, realizujemy w siedzibie klienta lub w miejscu zamieszkania w przypadku terapii indywidualnej. Pakiety usług przewidują również dłuższą współpracę poprzez prowadzenie profilaktycznych zajęć gimnastycznych, czy regularne konsultacje monitorujące efekty wdrażania zdrowych nawyków w biurze.
 
 Współpraca z nami dostarczy korzyści zarówno poszczególnym pracownikom, jak i całej firmie. Program szkoleń skutecznie podnosi świadomość związaną z profilaktyką zdrowego kręgosłupa, ergonomią pracy oraz promuje zdrowy tryb życia. Jego wdrożenie pozwala na zminimalizowanie dolegliwości bólowych, co w szybkim tempie przekłada się również na zwiększenie efektywności i komfortu pracy.
 
@@ -20,10 +24,11 @@ Współpraca z nami dostarczy korzyści zarówno poszczególnym pracownikom, jak
 <!-- ![wyklad]({{ site.url }}/images/wyklad.JPG) -->
 <!-- {: .full} -->
 
-## Edukacja
+### Edukacja
 
 W ramach edukacji prowadzimy prelekcje i warsztaty, których celem jest przede wszystkim minimalizowanie dolegliwości bólowych kręgosłupa u pracowników. 
-![wyklad]({{ site.url }}/{{ site.baseurl }}/images/wyklad1200vig.jpg)
+
+![training1]({{ site.url }}/{{ site.baseurl }}/images/training1.jpg)
 {: .full}
 
 Podczas szkolenia uczestnicy zdobędą wiedzę na temat:
@@ -34,7 +39,6 @@ Podczas szkolenia uczestnicy zdobędą wiedzę na temat:
 * zagrożeń związanych z pracą siedzącą,
 * najczęściej popełnianych błędów postawy,
 * właściwych zachowań chroniących kręgosłup.
-<!-- ![wyklad]({{ site.url }}/images/wyklad300x200.jpg){: .align-left} -->
 
 Nasze warsztaty pozwolą nabyć umiejętności z zakresu:
 
@@ -53,9 +57,12 @@ W programie szkolenia uwzględnione są również elementy dotyczące organizacj
 
 <a name="cwiczenia"></a>
 
-## Ćwiczenia grupowe
+### Ćwiczenia grupowe
 
 Prowadzimy zorganizowane zajęcia gimnastyczne dostosowane do warunków w siedzibie klienta. Proponowana forma zajęć ma charakter zarówno profilaktyczny jak i terapeutyczny w zakresie bólu pleców. Jest połączeniem klasycznego modelu ćwiczeń programu “Zdrowy Kręgosłup” oraz metody Pilates.
+
+![training2]({{ site.url }}/{{ site.baseurl }}/images/training2.jpg)
+{: .full}
 
 Treningi mają na celu:
 
@@ -67,20 +74,64 @@ Treningi mają na celu:
 
 Zajęcia odbywają się na zapewnionym przez nas sprzęcie (maty gimnastyczne, taśmy Thera-Band, Bosu).
 
+<a name="indywidualni"></a>
+
+## Klienci indywidualni
+
+Nasza oferta skierowana jest do osób, które chcą zniwelować dolegliwości bólowe i powrócić do utraconej sprawności ruchowej (po kontuzjach, urazach, zabiegach operacyjnych).
+Oferujemy indywidualne konsultacje diagnostyczne obejmujące ocenę aktualnego stanu zdrowia pacjenta oraz analizę wszelkich czynników ryzyka, które mogą być przyczyną bieżących i przyszłych problemów zdrowotnych. Na tej podstawie dobieramy najbardziej skuteczną formę terapii dostosowaną do rzeczywistych potrzeb pacjenta.
 
 <a name="fizjoterapia"></a>
 
-## Kompleksowa fizjoterapia
+### Kompleksowa fizjoterapia
 
-Oferujemy indywidualne konsultacje diagnostyczne obejmujące ocenę aktualnego stanu zdrowia pacjenta, analizę wszelkich czynników ryzyka, które mogą być przyczyną  bieżących i przyszłych problemów zdrowotnych. 
-
-Naszą terapię cechuje przede wszystkim indywidualne i kompleksowe podejście do pacjenta. Stosujemy metody z zakresu terapii manualnej, masażu, terapii PNF, kinesiotapingu oraz kinezyterapii.  Elementem terapii są również adekwatne porady i zalecenia dla pacjenta wraz z instruktażem ćwiczeń do samodzielnego wykonywania.
-
+Naszą terapię cechuje przede wszystkim indywidualne i kompleksowe podejście do pacjenta. Szczególną uwagę poświęcamy rozpoznaniu przyczyny dolegliwości. Stosujemy metody z zakresu terapii manualnej, masażu, terapii PNF, kinesiotapingu oraz kinezyterapii. Elementem terapii są również adekwatne porady i zalecenia dla pacjenta wraz z instruktażem ćwiczeń do samodzielnego wykonywania.
 
 <a name="uklienta"></a>
 
 ## U klienta
 
-Ze względu na mobilny charakter naszej firmy oraz dysponowanie profesjonalnym sprzętem, wszystkie nasze usługi możemy realizować w siedzibie klienta (biuro, miejsce zamieszkania).
+Ze względu na mobilny charakter naszej firmy oraz dysponowanie profesjonalnym sprzętem, wszystkie nasze usługi możemy realizować w siedzibie klienta (biuro, miejsce zamieszkania) na terenie Krakowa i okolic.
+Czas wykonywania usług ustalamy indywidualnie. Naszą ofertę dostosowujemy do trybu pracy danej firmy, aby harmonijnie wpisywała się w kulturę organizacyjną danego miejsca. 
 
-Czas wykonywania usług ustalamy indywidualnie. Naszą ofertę dostosowujemy do trybu pracy danej firmy, aby harmonijnie wpasowywała się w kulturę organizacyjną danego miejsca.
+<a name="cennik"></a>
+
+## Cennik
+
+<a name="cennik-pakiety"></a>
+
+### Pakiety dla firm
+
+| **Pakiet**                    | **Podstawowy** | **Rozszerzony** | **Kompleksowy**              |
+|-------------------------------+----------------+-----------------+------------------------------|
+| Cena brutto \*                | 800 zł         | 1600 zł         | 3200 zł                      |
+| Szkolenie                     | +              | +               | +                            |
+| Warsztat                      | -              | +               | +                            |
+| Konsultacje indywidualne \*\* | -              | -               | +                            |
+| Wizyty monitorujące \*\*\*    | -              | -               | +                            |
+| Ilość spotkań                 | 1-2            | 3-4             | 5-7 (+4 wizyty monitorujące) |
+
+\* Podana cena dotyczy grupy do 20 osób. W przypadku większej grupy */ większej ilości osób, cena rośnie..*  
+\*\* Diagnostyka poszczególnych pracowników  
+\*\*\* Konsultacje monitorujące efekty wdrażania zdrowych nawyków w biurze
+
+
+<a name="cennik-cwiczenia"></a>
+
+### Ćwiczenia grupowe
+
+| **Zajęcia**                     | **1 / miesiąc** | **2-4 / miesiąc** | **>4 / miesiąc** |
+|---------------------------------+-----------------+-------------------+----------------|
+| Cena brutto za jedne zajęcia \* | 800 zł          | 600 zł            | 400 zł         |
+
+\* Jeśli ćwiczenia są dodatkiem do pakietu dla firmy, to cena za jednych zajęć wynosi 50% powyższej kwoty.
+
+Zajęcia odbywają się na zapewnionym przez nas sprzęcie, w grupach max. 15 osobowych. 
+
+<a name="cennik-indywidualni"></a>
+
+### Klienci indywidualni
+
+| **Konsultacja fizjoterapeutyczna** - pierwsza wizyta diagnostyczna z propozycją terapii | 30 zł     |
+| **Wizyta terapeutyczna** - indywidualnie dobrana terapia                                | 60-100 zł |
+

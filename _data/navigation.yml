@@ -15,11 +15,29 @@ main:
 offer:
    - title: "Oferta"
      children:
-       - title: "Edukacja"
-         url:   "/oferta#edukacja"
-       - title: 'Ćwiczenia grupowe'
-         url: "/oferta#cwiczenia"
-       - title: 'Kompleksowa fizjoterapia'
-         url: "/oferta#fizjoterapia"
-       - title: 'U klienta'
-         url: "/oferta#uklienta"
+       - title: "Firmy"
+         url:   "/oferta#firmy"
+         children:
+           - title: "Edukacja"
+             url:   "/oferta#edukacja"
+           - title: "Ćwiczenia grupowe"
+             url:   "/oferta#cwiczenia"
+
+       - title: "Klienci indywidualni"
+         url:   "/oferta#indywidualni"
+         children:
+           - title: "Kompleksowa fizjoterapia"
+             url:   "/oferta#fizjoterapia"
+
+       - title: "U klienta"
+         url:   "/oferta#uklienta"
+
+       - title: "Cennik"
+         url:   "/oferta#cennik"
+         children:
+           - title: "Pakiety dla firm"
+             url:   "/oferta#cennik-pakiety"
+           - title: "Ćwiczenia grupowe"
+             url:   "/oferta#cennik-cwiczenia"
+           - title: "Klienci indywidualni"
+             url:   "/oferta#cennik-indywidualni"
