@@ -1,0 +1,18 @@
+| **Pakiet**                    | **Podstawowy** | **Rozszerzony** | **Kompleksowy**              |
+|-------------------------------+----------------+-----------------+------------------------------|
+| Cena brutto \*                | 800 zł         | 1600 zł         | 3200 zł                      |
+| Szkolenie                     | +              | +               | +                            |
+| Warsztat                      | -              | +               | +                            |
+| Konsultacje indywidualne \*\* | -              | -               | +                            |
+| Wizyty monitorujące \*\*\*    | -              | -               | +                            |
+| Ilość spotkań                 | 1-2            | 3-4             | 5-7 (+4 wizyty monitorujące) |
+
+
+| **Zajęcia**                     | **1 / miesiąc** | **2-4 / miesiąc** | **>4 / miesiąc |
+|---------------------------------+-----------------+-------------------+----------------|
+| Cena brutto za jedne zajęcia \* | 800 zł          | 600 zł            | 400 zł         |
+
+| *Konsultacja fizjoterapeutyczna* - pierwsza wizyta diagnostyczna z propozycją terapii | 30 zł     |
+| *Wizyta terapeutyczna* - indywidualnie dobrana terapia                                | 60-100 zł |
+
+
