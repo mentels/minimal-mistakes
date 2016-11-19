@@ -10,7 +10,7 @@ sidebar:
 
 <a name="firmy"></a>
 
-## Firmy
+## Dla firm
 
 Nasza oferta obejmuje kompleksową obsługę firm w zakresie higieny kręgosłupa pracowników biurowych. Proponujemy szeroki wachlarz usług, począwszy od merytorycznych szkoleń w formie wykładów i warsztatów, poprzez konsultacje diagnostyczne poszczególnych pracowników, aż po ćwiczenia grupowe dostosowane do warunków biurowych.
 
@@ -102,9 +102,9 @@ Czas wykonywania usług ustalamy indywidualnie. Naszą ofertę dostosowujemy do 
 | Wizyty monitorujące \*\*\*    | -              | -               | +                            |
 | Ilość spotkań                 | 1-2            | 3-4             | 5-7<br>(+4 wizyty monitorujące) |
 
-\* Podana cena dotyczy grupy do 20 osób.  W przypadku większej grupy osób cena i ilość spotkań
+\* Podana cena dotyczy grupy do 20 osób.  W przypadku większej liczby osób cena i ilość spotkań
 są rozpatrywane indywidualnie  
-\*\* Diagnostyka poszczególnych pracowników  
+\*\* Diagnostyka poszczególnych pracowników (przewidziany czas: do 30 minut na osobę)  
 \*\*\* Konsultacje monitorujące efekty wdrażania zdrowych nawyków w biurze
 
 
