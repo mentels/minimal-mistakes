@@ -21,15 +21,12 @@ Współpraca z nami dostarczy korzyści zarówno poszczególnym pracownikom, jak
 
 <a name="edukacja"></a>
 
-<!-- ![wyklad]({{ site.url }}/images/wyklad.JPG) -->
-<!-- {: .full} -->
+![training_collage1]({{ site.url }}/{{ site.baseurl }}/images/training_collage1.jpg)
+{: .full}
 
 ### Edukacja
 
 W ramach edukacji prowadzimy prelekcje i warsztaty, których celem jest przede wszystkim minimalizowanie dolegliwości bólowych kręgosłupa u pracowników. 
-
-![training1]({{ site.url }}/{{ site.baseurl }}/images/training1.jpg)
-{: .full}
 
 Podczas szkolenia uczestnicy zdobędą wiedzę na temat:
 
@@ -53,16 +50,14 @@ Poprzez nasze szkolenia zamierzamy także przełamać barierę psychologiczną i
 
 W programie szkolenia uwzględnione są również elementy dotyczące organizacji pracy i technik zarządzania czasem. Mają one na celu pokazanie, jak wdrożyć system przerw, które w połączeniu z efektywnymi ćwiczeniami mogą przyczynić się do poprawy higieny kręgosłupa.
 
-
-
 <a name="cwiczenia"></a>
+
+![training_collage2]({{ site.url }}/{{ site.baseurl }}/images/training_collage2.jpg)
+{: .full}
 
 ### Ćwiczenia grupowe
 
 Prowadzimy zorganizowane zajęcia gimnastyczne dostosowane do warunków w siedzibie klienta. Proponowana forma zajęć ma charakter zarówno profilaktyczny jak i terapeutyczny w zakresie bólu pleców. Jest połączeniem klasycznego modelu ćwiczeń programu “Zdrowy Kręgosłup” oraz metody Pilates.
-
-![training2]({{ site.url }}/{{ site.baseurl }}/images/training2.jpg)
-{: .full}
 
 Treningi mają na celu:
 
@@ -74,16 +69,12 @@ Treningi mają na celu:
 
 Zajęcia odbywają się na zapewnionym przez nas sprzęcie (maty gimnastyczne, taśmy Thera-Band, Bosu).
 
-<a name="indywidualni"></a>
+<a name="fizjoterapia"></a>
 
-## Klienci indywidualni
+## Kompleksowa fizjoterapia dla klientów indywidualnych
 
 Nasza oferta skierowana jest do osób, które chcą zniwelować dolegliwości bólowe i powrócić do utraconej sprawności ruchowej (po kontuzjach, urazach, zabiegach operacyjnych).
 Oferujemy indywidualne konsultacje diagnostyczne obejmujące ocenę aktualnego stanu zdrowia pacjenta oraz analizę wszelkich czynników ryzyka, które mogą być przyczyną bieżących i przyszłych problemów zdrowotnych. Na tej podstawie dobieramy najbardziej skuteczną formę terapii dostosowaną do rzeczywistych potrzeb pacjenta.
-
-<a name="fizjoterapia"></a>
-
-### Kompleksowa fizjoterapia
 
 Naszą terapię cechuje przede wszystkim indywidualne i kompleksowe podejście do pacjenta. Szczególną uwagę poświęcamy rozpoznaniu przyczyny dolegliwości. Stosujemy metody z zakresu terapii manualnej, masażu, terapii PNF, kinesiotapingu oraz kinezyterapii. Elementem terapii są również adekwatne porady i zalecenia dla pacjenta wraz z instruktażem ćwiczeń do samodzielnego wykonywania.
 
@@ -102,16 +93,17 @@ Czas wykonywania usług ustalamy indywidualnie. Naszą ofertę dostosowujemy do 
 
 ### Pakiety dla firm
 
-| **Pakiet**                    | **Podstawowy** | **Rozszerzony** | **Kompleksowy**              |
-|-------------------------------+----------------+-----------------+------------------------------|
+| Pakiet                        | Podstawowy     | Rozszerzony     | Kompleksowy                  |
+|-------------------------------|:--------------:|:---------------:|:----------------------------:|
 | Cena brutto \*                | 800 zł         | 1600 zł         | 3200 zł                      |
 | Szkolenie                     | +              | +               | +                            |
 | Warsztat                      | -              | +               | +                            |
 | Konsultacje indywidualne \*\* | -              | -               | +                            |
 | Wizyty monitorujące \*\*\*    | -              | -               | +                            |
-| Ilość spotkań                 | 1-2            | 3-4             | 5-7 (+4 wizyty monitorujące) |
+| Ilość spotkań                 | 1-2            | 3-4             | 5-7<br>(+4 wizyty monitorujące) |
 
-\* Podana cena dotyczy grupy do 20 osób. W przypadku większej grupy */ większej ilości osób, cena rośnie..*  
+\* Podana cena dotyczy grupy do 20 osób.  W przypadku większej grupy osób cena i ilość spotkań
+są rozpatrywane indywidualnie  
 \*\* Diagnostyka poszczególnych pracowników  
 \*\*\* Konsultacje monitorujące efekty wdrażania zdrowych nawyków w biurze
 
@@ -120,11 +112,11 @@ Czas wykonywania usług ustalamy indywidualnie. Naszą ofertę dostosowujemy do 
 
 ### Ćwiczenia grupowe
 
-| **Zajęcia**                     | **1 / miesiąc** | **2-4 / miesiąc** | **>4 / miesiąc** |
-|---------------------------------+-----------------+-------------------+----------------|
-| Cena brutto za jedne zajęcia \* | 800 zł          | 600 zł            | 400 zł         |
+| Zajęcia                         | 1 / miesiąc     | 2-4 / miesiąc     | >4 / miesią      |
+|---------------------------------|:---------------:|:-----------------:|:----------------:|
+| Cena brutto za jedne zajęcia \* | 800 zł          | 600 zł            | 400 zł           |
 
-\* Jeśli ćwiczenia są dodatkiem do pakietu dla firmy, to cena za jednych zajęć wynosi 50% powyższej kwoty.
+\* Jeśli ćwiczenia są dodatkiem do pakietu dla firmy, to za jednych zajęć wynosi 50% powyższej kwoty.
 
 Zajęcia odbywają się na zapewnionym przez nas sprzęcie, w grupach max. 15 osobowych. 
 
@@ -132,6 +124,6 @@ Zajęcia odbywają się na zapewnionym przez nas sprzęcie, w grupach max. 15 os
 
 ### Klienci indywidualni
 
-| **Konsultacja fizjoterapeutyczna** - pierwsza wizyta diagnostyczna z propozycją terapii | 30 zł     |
-| **Wizyta terapeutyczna** - indywidualnie dobrana terapia                                | 60-100 zł |
+| <b>Konsultacja fizjoterapeutyczna</b> - pierwsza wizyta diagnostyczna z propozycją terapii | 30 zł     |
+| <b>Wizyta terapeutyczna</b> - indywidualnie dobrana terapia                                | 60-100 zł |
 
