@@ -23,11 +23,8 @@ offer:
            - title: "Ćwiczenia grupowe"
              url:   "/oferta#cwiczenia"
 
-       - title: "Klienci indywidualni"
-         url:   "/oferta#indywidualni"
-         children:
-           - title: "Kompleksowa fizjoterapia"
-             url:   "/oferta#fizjoterapia"
+       - title: "Kompleksowa fizjoterapia"
+         url:   "/oferta#fizjoterapia"
 
        - title: "U klienta"
          url:   "/oferta#uklienta"
