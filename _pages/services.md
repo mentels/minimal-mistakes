@@ -102,8 +102,7 @@ Czas wykonywania usług ustalamy indywidualnie. Naszą ofertę dostosowujemy do 
 | Wizyty monitorujące \*\*\*    | -              | -               | +                            |
 | Ilość spotkań                 | 1-2            | 3-4             | 5-7<br>(+4 wizyty monitorujące) |
 
-\* Podana cena dotyczy grupy do 20 osób.  W przypadku większej liczby osób cena i ilość spotkań
-są rozpatrywane indywidualnie  
+\* Podana cena dotyczy grupy do 20 osób.  W przypadku większej liczby osób, cena i ilość spotkań są rozpatrywane indywidualnie  
 \*\* Diagnostyka poszczególnych pracowników (przewidziany czas: do 30 minut na osobę)  
 \*\*\* Konsultacje monitorujące efekty wdrażania zdrowych nawyków w biurze
 
@@ -116,7 +115,7 @@ są rozpatrywane indywidualnie
 |---------------------------------|:---------------:|:-----------------:|:----------------:|
 | Cena brutto za jedne zajęcia \* | 800 zł          | 600 zł            | 400 zł           |
 
-\* Jeśli ćwiczenia są dodatkiem do pakietu dla firmy, to za jednych zajęć wynosi 50% powyższej kwoty.
+\* Jeśli ćwiczenia są dodatkiem do pakietu dla firmy, to cena jednych zajęć wynosi 50% powyższej kwoty.
 
 Zajęcia odbywają się na zapewnionym przez nas sprzęcie, w grupach max. 15 osobowych. 
 
