@@ -15,7 +15,7 @@ main:
 offer:
    - title: "Oferta"
      children:
-       - title: "Firmy"
+       - title: "Dla firm"
          url:   "/oferta#firmy"
          children:
            - title: "Edukacja"
