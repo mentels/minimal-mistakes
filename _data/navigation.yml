@@ -3,6 +3,9 @@ main:
   - title: "Oferta"
     url: /oferta
 
+  - title: "Ćwiczenia na Każdy Dzień"
+    url: /cwiczenia-na-kazdy-dzien
+
   - title: "Blog"
     url: /blog
 
