@@ -219,3 +219,16 @@ defaults:
    values:
      layout: single
      author_profile: true
+
+collections:
+  everyday_exercises:
+    output: true
+    permalink: /cwiczenia-na-kazdy-dzien/:name:output_ext
+
+defaults:
+ - scope:
+     path: ""
+     type: everyday_exercises
+   values:
+     layout: single
+     author_profile: false
