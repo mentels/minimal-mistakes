@@ -7,7 +7,7 @@ excerpt: "Tu krótki opis, który pojawi się na stronie z postami"
 
 ## Wewnętrzne życie pleców
 
-Tu mamy jakiś pierwszy ygfyyryrakapit, w którym opisujemy sobie o co w ogóle chodzi. Możemy **pogrubić tekst** oraz *pisać kursywą*. Źródło tego posta Ci powie.
+Tu mamy jakiś pierwszy akapit, w którym opisujemy sobie o co w ogóle chodzi. Możemy **pogrubić tekst** oraz *pisać kursywą*. Źródło tego posta Ci powie.
 
 <!-- ### oznaczamy podakapity (możemy użyć też #### itd.) -->
 
