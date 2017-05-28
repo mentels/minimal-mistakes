@@ -29,7 +29,7 @@
 >
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
-      <h1 class="page__title" itemprop="headline">
+        <h1 class="page__title{% if page.header.title_color %}--{{ page.header.title_color }}{% endif %} itemprop="headline">
         {% if paginator %}
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page }} {{ paginator.page }}{% endunless %}
         {% else %}
@@ -37,7 +37,7 @@
         {% endif %}
       </h1>
       {% if page.excerpt %}
-        <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        <p class="page__lead{% if page.header.lead_color %}--{{ page.header.lead_color }}{% endif %}">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
       {% if site.read_time and page.read_time %}
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
