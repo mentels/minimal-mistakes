@@ -3,7 +3,7 @@ layout: splash
 title: Madagaskar
 header:
    overlay_color: "#FFFFFF"
-   overlay_image: lemur_2.jpeg
+   overlay_image: lemur_3.jpg
    title_color: "dark"
    lead_color: "dark"
 excerpt: (2017-06-02) Wyspa lemurów / Ląd na końcu świata
