@@ -3,10 +3,10 @@ layout: splash
 title: Madagaskar
 header:
    overlay_color: "#FFFFFF"
-   overlay_image:
+   overlay_image: lemur_1.jpeg
    title_color: "dark"
    lead_color: "dark"
-excerpt: (2017-06-02)"Wyspa lemurów" / "Ląd na końcu świata"
+excerpt: (2017-06-02) Wyspa lemurów / Ląd na końcu świata
 ---
 
 ## Wstęp
