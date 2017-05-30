@@ -6,7 +6,7 @@ header:
    overlay_image: lemur_8.jpg
    title_color: "light"
    lead_color: "light"
-excerpt: "(2017-06-02)<nobr> Wyspa lemurów / Ląd na końcu świata"
+excerpt: "(2017-06-02)<nobr> Wyspa lemurów"
 ---
 
 ## Wstęp
