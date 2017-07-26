@@ -29,5 +29,5 @@ excerpt: "(2017-06-02)<nobr> Wyspa lemurów"
 
 * **Ćwiczenie:** wraz z wydechem powoli odchyl głowę (skłon boczny) najbardziej jak tylko możesz w kierunku prawego barku aż do uczucia lekkiego naciągania. **Z wyczuciem, nie na siłę!** Wytrzymaj w końcowej pozycji 5-10 sekund i powoli wróć do pozycji wyjściowej. Powtórz to samo ćwiczenie na drugą stronę.
 
-* **Działanie:** rozciąganie bocznej strony szyi.
+* **Działanie:** rozciąganie mięśni bocznej strony szyi, zmniejszenie ich napięcia.
 
