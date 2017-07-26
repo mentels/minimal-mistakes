@@ -16,5 +16,18 @@ excerpt: "(2017-06-02)<nobr> Wyspa lemurów"
 
 ## Wyginaj śmiało ciało
 
+* **Pozycja:** usiądź prosto (w pozycji neutralnej) na przedniej krawędzi krzesła, w lekkim rozkroku, ustaw stopy równolegle na podłożu, ustaw głowę prosto i patrz przed siebie, prawą rękę unieś w górę i wygnij ją w “łuk” nad głową, a lewą obejmij żebra z boku.
 
-## Rozciągnij boczną stronę szyi
+* **Ćwiczenie:** przechyl tułów w lewo, powoli pogłębiając zakres ruchu. **Staraj się nie skręcać i nie pochylać ciała do przodu** (wyobraź sobie, że masz za plecami ścianę i przechylając się do boku Twoje plecy cały czas do niej przylegają). Rozciągaj boczne mięśnie pleców i brzucha. Utrzymaj końcowy zakres ruchu przez 5 sekund. Miednica jest lekko pochylona do przodu. Powtórz ćwiczenie na drugą stronę.
+
+* **Działanie:** rozciąganie bocznej grupy mięśniowej pleców i brzucha.
+
+
+## Ucho "patrzy" na sufit
+
+* **Pozycja:** jak w pierwszym ćwiczeniu, chwyć lewą ręką za krawędź krzesła, prawą ręką obejmij głowę z przeciwległej strony tak aby palce były skierowane w stronę lewego ucha.
+
+* **Ćwiczenie:** wraz z wydechem powoli odchyl głowę (skłon boczny) najbardziej jak tylko możesz w kierunku prawego barku aż do uczucia lekkiego naciągania. **Z wyczuciem, nie na siłę!** Wytrzymaj w końcowej pozycji 5-10 sekund i powoli wróć do pozycji wyjściowej. Powtórz to samo ćwiczenie na drugą stronę.
+
+* **Działanie:** rozciąganie bocznej strony szyi.
+
